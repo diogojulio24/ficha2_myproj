@@ -1,0 +1,7 @@
+Este é o exemplo de um ficheiro de texto file3
+
+
+
+
+
+Fiz alterações no ficheiro file3.txt
